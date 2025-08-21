@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ossmxun.net.ico",
     "slug": "o-ssm-xun-api",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 276,
     "timeDay": 276,
     "timeWeek": 276,
     "timeMonth": 276,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2025-08-21": 23
+      "2025-08-21": 61
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://fs2.ossmxun.net",
     "icon": "https://icons.duckduckgo.com/ip3/fs2.ossmxun.net.ico",
     "slug": "file-server-2",
-    "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
+    "time": 594,
+    "timeDay": 594,
+    "timeWeek": 594,
+    "timeMonth": 594,
+    "timeYear": 594,
     "dailyMinutesDown": {
-      "2025-08-21": 23
+      "2025-08-21": 61
     }
   }
 ]
