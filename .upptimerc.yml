@@ -6,7 +6,7 @@ sites:
   - name: Website
     url: https://ossmxun.net
   - name: oSsmXun API
-    url: https://api.ossmxun.net
+    url: https://api.ossmxun.net/health
   - name: oSsmXun Dashboard
     url: https://dashboard.ossmxun.net
   - name: File Server 1
