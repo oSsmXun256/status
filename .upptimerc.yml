@@ -9,10 +9,6 @@ sites:
     url: https://api.ossmxun.net/health
   - name: oSsmXun Dashboard
     url: https://dashboard.ossmxun.net
-  - name: File Server 1
-    url: https://fs1.ossmxun.net
-  - name: File Server 2
-    url: https://fs2.ossmxun.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
